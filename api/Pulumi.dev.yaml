@@ -1,0 +1,4 @@
+config:
+  aws:profile: aaron
+  aws:region: ap-southeast-2
+  burner-program-2:request: location
